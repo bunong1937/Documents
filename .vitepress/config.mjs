@@ -3,7 +3,7 @@ import { set_sidebar } from "./utils/auto_sidebar.mjs";	// 改成自己的路径
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/Documents/",
+  // base: "/Documents/",
   head: [["link", { rel: "icon", href: "/知识库.svg" }]],
   title: "解离态",
   description: "blog",
